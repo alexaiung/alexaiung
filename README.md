@@ -4,11 +4,11 @@
 * Late deliveries and their impact on reviews: seeing the amount of late deliveries, we analyse if they impact in the reviews of the clients;
 * Throwing dice with the emperor: a recreation in command line of an ancient roman game (see more here);
 * Diamond pricing: finding the best prediction for the price of diamonds, based on another dataset;
-* Primary Healthcare in Brazil 2007-2020: comparing the situation of the public healthcare, what changed, and it does say about the population of the states;
+* Primary Healthcare in Brazil 2007-2020: comparing the situation of the public healthcare, what changed, and what it tells us about the population of the states;
 * Booking cancellations: creating a model to predict which clients are more likely to cancel their travels, using machine learning;
 * House pricing: creating a model to predict the prices of houses based on their characteristics, using machine learning.
 
-Last edited on: 26/05/2023.
+Last edited on: 06/09/2023.
 <!--
 **alexaiung/alexaiung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
