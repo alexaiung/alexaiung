@@ -17,7 +17,7 @@ Oi! Eu sou Alexa! 🥰
 
 <div>
 <a href="https://github.com/alexaiung">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=octaviareika&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexaiung&layout=compact&langs_count=7&theme=dracula"/>
 
 
 Last edited on: 07/12/2023.
