@@ -4,7 +4,7 @@
 
 Hi! I'm Alexa! 🥰
 
-I am passionate for learning, developing solutions in Data Science and Analysis. My goal is to keep learning from datasets, create models capable of predicting patterns, and, of course, convey this through elegant visualizations for interested clients. With well-informed decisions, reality becomes capable of changing in our favor {:
+I am passionate about learning and developing solutions within Data Science and Analysis. My goal is to continuously understand datasets, create models for identifying patterns and making predictions, and, of course, convey this through elegant visualizations for interested clients. Well-informed decisions empower us to shape reality in our favor {:
 
 Have any freelance projects in mind? [Contact me!](mailto:alexa.iung.dias@gmail.com)
 
@@ -31,7 +31,7 @@ Have any freelance projects in mind? [Contact me!](mailto:alexa.iung.dias@gmail.
 </div>
 
 
-Last edited on: 09/12/2023
+Last edited on: 09/01/2024
 <!--
 **alexaiung/alexaiung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
