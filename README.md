@@ -1,10 +1,9 @@
-<!--<p align="center">
-  <img src="https://github.com/alexaiung/alexaiung/blob/main/analytics-3088958_1280.jpg" height=300 style="padding:20px;overflow:hidden;width:100%;">
-</p>-->
+[christopher-burns-Kj2SaNHG-hg-unsplash](https://github.com/alexaiung/alexaiung/assets/110355804/50e51e9c-5654-4aa6-b2ce-07a1ec0c5245)
+
 
 Hi! I'm Alexa! 🥰
 
-I am passionate about learning and developing solutions within Data Science and Analysis. My goal is to continuously understand datasets, create models for identifying patterns and making predictions, and, of course, convey this through elegant visualizations for interested clients. Well-informed decisions empower us to shape reality in our favor {:
+I am passionate about learning and developing solutions within Data Science and Data Analysis. My goal is to continuously understand the reality through data, create models for identifying patterns and making predictions, and, of course, convey this through elegant visualizations for interested clients. Well-informed decisions empower us to shape reality in our favor {:
 
 Have any freelance projects in mind? [Contact me!](mailto:alexa.iung.dias@gmail.com)
 
