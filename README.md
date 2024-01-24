@@ -1,4 +1,4 @@
-![73f82f33-f057-4108-8872-6df51133e545](https://github.com/alexaiung/alexaiung/assets/110355804/d1cabd9a-566c-491d-a215-ef0bd3f66a8e)
+<p align="center"><img src="https://github.com/alexaiung/alexaiung/assets/110355804/d1cabd9a-566c-491d-a215-ef0bd3f66a8e" height=300 width=1000></p>
 <p align="center">Hi! I'm Alexa! 🥰</p>
 
 <p align="center">I am passionate about learning and developing solutions within Data Science and Data Analysis. My goal is to continuously understand the reality through data, create models for identifying patterns and making predictions, and, of course, convey this through elegant visualizations for interested clients. Well-informed decisions empower us to shape reality in our favor {:</p>
