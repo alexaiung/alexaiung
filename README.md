@@ -1,19 +1,17 @@
-[christopher-burns-Kj2SaNHG-hg-unsplash](https://github.com/alexaiung/alexaiung/assets/110355804/50e51e9c-5654-4aa6-b2ce-07a1ec0c5245)
+![73f82f33-f057-4108-8872-6df51133e545](https://github.com/alexaiung/alexaiung/assets/110355804/d1cabd9a-566c-491d-a215-ef0bd3f66a8e)
+<p align="center">Hi! I'm Alexa! 🥰</p>
 
+<p align="center">I am passionate about learning and developing solutions within Data Science and Data Analysis. My goal is to continuously understand the reality through data, create models for identifying patterns and making predictions, and, of course, convey this through elegant visualizations for interested clients. Well-informed decisions empower us to shape reality in our favor {:</p>
 
-Hi! I'm Alexa! 🥰
-
-I am passionate about learning and developing solutions within Data Science and Data Analysis. My goal is to continuously understand the reality through data, create models for identifying patterns and making predictions, and, of course, convey this through elegant visualizations for interested clients. Well-informed decisions empower us to shape reality in our favor {:
-
-Have any freelance projects in mind? [Contact me!](mailto:alexa.iung.dias@gmail.com)
+<p align="center">Have any freelance projects in mind? <a href="mailto:alexa.iung.dias@gmail.com">Contact me!</a></p>
 
 # Open Data Portfolio
 
-🦈 Shark Attack: analysis of the lethality and frequency of attack of sharks in the USA and in Australia, comparing the situation of both countries;
+🦈 [Shark Attack Analysis](https://github.com/alexaiung/Shark-Attack-Analysis): analysis of the lethality and frequency of attack of sharks in the USA and in Australia, comparing the situation of both countries;
 
 📦 Late deliveries and their impact on reviews: seeing the amount of late deliveries, we analyse if they impact in the reviews of the clients;
 
-🎲 Throwing dice with the emperor: a recreation in command line of an ancient roman game;
+🎲 [Throwing dice with the emperor](https://github.com/alexaiung/Minigame-Throwing-Dice-with-the-Emperor): a recreation in command line of an ancient roman game;
 
 💎 Diamond pricing: finding the best prediction for the price of diamonds, based on another dataset;
 
