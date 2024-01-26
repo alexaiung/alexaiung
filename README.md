@@ -7,6 +7,8 @@
 
 # Open Data Portfolio
 
+📋 [Data Analytics Job Tendencies](https://github.com/alexaiung/Health-Coverage-on-Brazil/): a thorough analysis of the main characteristics of job offers in Data Analytics area, using data scraping, clusterization, and LLMs for developing the conclusions;
+
 🦈 [Shark Attack Analysis](https://github.com/alexaiung/Shark-Attack-Analysis): analysis of the lethality and frequency of attack of sharks in the USA and in Australia, comparing the situation of both countries;
 
 📦 Late deliveries and their impact on reviews: seeing the amount of late deliveries, we analyse if they impact in the reviews of the clients;
@@ -15,7 +17,7 @@
 
 💎 Diamond pricing: finding the best prediction for the price of diamonds, based on another dataset;
 
-🏥 Primary Healthcare in Brazil 2007-2020: comparing the situation of the public healthcare, what changed, and what it tells us about the population of the states;
+🏥 [Primary Healthcare in Brazil 2007-2020](https://github.com/alexaiung/Health-Coverage-on-Brazil/): comparing the situation of the public healthcare, what changed, and what it tells us about the population of the states;
 
 🏨 Booking cancellations: creating a model to predict which clients are more likely to cancel their travels, using machine learning;
 
