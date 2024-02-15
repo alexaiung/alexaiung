@@ -1,3 +1,6 @@
+[![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alexaiung)](https://instagram.com/alexaiung)
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexa-iung-dias//)](https://www.linkedin.com/in/alexa-iung-dias/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](karinnecristinapereira@gmail.com)
 <p align="center"><img src="https://github.com/alexaiung/alexaiung/assets/110355804/d1cabd9a-566c-491d-a215-ef0bd3f66a8e" height=300 width=1000></p>
 <p align="center">Hi! I'm Alexa! 🥰</p>
 
@@ -5,9 +8,21 @@
 
 <p align="center">Have any freelance projects in mind? <a href="mailto:alexa.iung.dias@gmail.com">Contact me!</a></p>
 
+# Programming Languages and Other Tools
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
+ ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
+ ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
+ ![VS Code](https://img.shields.io/badge/-VS%20Code-black?style=flat-square&logo=visual-studio-code)
+  ![Pandas](https://img.shields.io/badge/-Pandas-black?style=flat-square&logo=Pandas)
+ ![Numpy](https://img.shields.io/badge/-Numpy-black?style=flat-square&logo=Numpy)
+ ![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-black?style=flat-square&logo=scikit-learn)
+ ![Jupyter](https://img.shields.io/badge/-Jupyter-black?style=flat-square&logo=Jupyter)
+ ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
+ ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
+
 # Open Data Portfolio
 
-📋 [Data Analytics Job Tendencies](https://github.com/alexaiung/Health-Coverage-on-Brazil/): a thorough analysis of the main characteristics of job offers in Data Analytics area, using data scraping, clusterization, and LLMs for developing the conclusions;
+📋 [Data Analytics Job Tendencies](https://github.com/alexaiung/Data-Analytics-Job-Tendencies): a thorough analysis of the main characteristics of job offers in Data Analytics area, using data scraping, clusterization, and LLMs for developing the conclusions;
 
 🦈 [Shark Attack Analysis](https://github.com/alexaiung/Shark-Attack-Analysis): analysis of the lethality and frequency of attack of sharks in the USA and in Australia, comparing the situation of both countries;
 
@@ -23,25 +38,14 @@
 
 🏠 House pricing: creating a model to predict the prices of houses based on their characteristics, using machine learning.
 
-# Social Media
-<div>
-<a href="https://instagram.com/alexaiung" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> 
-<a href="https://www.linkedin.com/in/alexa-iung-dias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-</div>
+ <br>
 
+<b> :chart_with_upwards_trend: Estatísticas</b>:
 
-Last edited on: 09/01/2024
-<!--
-**alexaiung/alexaiung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://github.com/alexaiung">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=alexaiung&show_icons=true&theme=dark&include_commits=true"/>
+</a>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://github.com/alexaiung">
+  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alexaiung&layout=compact&langs_count=8&theme=dark"/>
+</a>
