@@ -8,7 +8,7 @@
 
 <p align="center">Have any freelance projects in mind? <a href="mailto:alexa.iung.dias@gmail.com">Contact me!</a></p>
 
-# Programming Languages and Other Tools
+## Techs & Tools
 ![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=Python)
  ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=Git)
  ![Github](https://img.shields.io/badge/-Github-black?style=flat-square&logo=Github)
@@ -20,7 +20,7 @@
  ![Power BI](https://img.shields.io/badge/-Power%20BI-black?style=plastic&logo=Power-BI)
  ![Tableau](https://img.shields.io/badge/-Tableau-black?style=plastic&logo=Tableau)
 
-# Open Data Portfolio
+## Open Data Portfolio
 
 📋 [Data Analytics Job Tendencies](https://github.com/alexaiung/Data-Analytics-Job-Tendencies): a thorough analysis of the main characteristics of job offers in Data Analytics area, using data scraping, clusterization, and LLMs for developing the conclusions;
 
