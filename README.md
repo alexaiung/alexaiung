@@ -1,6 +1,6 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alexaiung)](https://instagram.com/alexaiung)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexa-iung-dias//)](https://www.linkedin.com/in/alexa-iung-dias/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](karinnecristinapereira@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](alexa.iung.dias@gmail.com)
 <p align="center"><img src="https://github.com/alexaiung/alexaiung/assets/110355804/d1cabd9a-566c-491d-a215-ef0bd3f66a8e" height=300 width=1000></p>
 <p align="center">Hi! I'm Alexa! 🥰</p>
 
