@@ -22,21 +22,21 @@
 
 ## Open Data Portfolio
 
-📋 [Data Analytics Job Tendencies](https://github.com/alexaiung/Data-Analytics-Job-Tendencies): a thorough analysis of the main characteristics of job offers in Data Analytics area, using data scraping, clusterization, and LLMs for developing the conclusions;
+📋 [Data Analytics Job Tendencies](https://github.com/alexaiung/Data-Analytics-Job-Tendencies): a thorough analysis of the main characteristics of job offers in Data Analytics area, using data scraping, Machine Learning, clusterization, and LLMs;
 
-🦈 [Shark Attack Analysis](https://github.com/alexaiung/Shark-Attack-Analysis): analysis of the lethality and frequency of attack of sharks in the USA and in Australia, comparing the situation of both countries;
+🦈 [Shark Attack Analysis](https://github.com/alexaiung/Shark-Attack-Analysis): analysis of the lethality and frequency of attack of sharks in the USA and in Australia, comparing the situation of both countries, through a complete analysis including data importing, cleaning, exploration, and visualization;
 
-📦 Late deliveries and their impact on reviews: seeing the amount of late deliveries, we analyse if they impact in the reviews of the clients;
+📦 [Late deliveries and their impact on reviews](https://github.com/alexaiung/ironhack_miniproj02_olist_data_analysis): seeing the amount of late deliveries, we analyse if they impact in the reviews of the clients;
 
 🎲 [Throwing dice with the emperor](https://github.com/alexaiung/Minigame-Throwing-Dice-with-the-Emperor): a recreation in command line of an ancient roman game;
 
-💎 Diamond pricing: finding the best prediction for the price of diamonds, based on another dataset;
+💎 Diamond pricing: finding the best prediction for the price of diamonds, based on another dataset, using Machine Learning;
 
 🏥 [Primary Healthcare in Brazil 2007-2020](https://github.com/alexaiung/Health-Coverage-on-Brazil/): comparing the situation of the public healthcare, what changed, and what it tells us about the population of the states;
 
-🏨 Booking cancellations: creating a model to predict which clients are more likely to cancel their travels, using machine learning;
+🏨 [Booking cancellations](https://github.com/alexaiung/ironhack_miniproj04_hotel): creating a model to predict which clients are more likely to cancel their travels, using machine learning;
 
-🏠 House pricing: creating a model to predict the prices of houses based on their characteristics, using machine learning.
+🏠 [House pricing](https://github.com/alexaiung/ironhack_mini_proj05_houseprices): creating a model to predict the prices of houses based on their characteristics, using machine learning.
 
  <br>
 
