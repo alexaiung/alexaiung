@@ -1,7 +1,7 @@
 [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white&link=https://instagram.com/alexaiung)](https://instagram.com/alexaiung)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/alexa-iung-dias//)](https://www.linkedin.com/in/alexa-iung-dias/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=Gmail&logoColor=white&link=karinnecristinapereira@gmail.com)](alexa.iung.dias@gmail.com)
-<p align="center">![299422242-d1cabd9a-566c-491d-a215-ef0bd3f66a8e](https://github.com/user-attachments/assets/f266e01f-a26e-4e20-b484-4b71367d682a)</p>
+![299422242-d1cabd9a-566c-491d-a215-ef0bd3f66a8e](https://github.com/user-attachments/assets/f266e01f-a26e-4e20-b484-4b71367d682a)
 <p align="center">Oi! Eu sou a Alexa! 🥰</p>
 
 <p align="center">Sou apaixonada por programação e por como ela pode melhorar nossas vidas! Por isso, me tornei Engenheira de Dados, tentando garantir pipelines perfeitamente eficientes e seguros para que os dados que geramos a todo instante possam ser bem analisados e auxiliem na nossa tomada de decisão!</p>
