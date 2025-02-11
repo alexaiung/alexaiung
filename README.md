@@ -4,7 +4,7 @@
 ![299422242-d1cabd9a-566c-491d-a215-ef0bd3f66a8e](https://github.com/user-attachments/assets/f266e01f-a26e-4e20-b484-4b71367d682a)
 <p align="center">Oi! Eu sou a Alexa! 🥰</p>
 
-<p align="center">Sou apaixonada por programação e por como ela pode melhorar nossas vidas! Por isso, me tornei Engenheira de Dados, tentando garantir pipelines perfeitamente eficientes e seguros para que os dados que geramos a todo instante possam ser bem analisados e auxiliem na nossa tomada de decisão!</p>
+<p align="center">Sou apaixonada por usar a tecnologia em favor de nossas vidas! Para isso, me aprofundei em programação para melhor explorar e prover potentes análises de dados. Para melhor entendimento da complexidade da área, também estudei engenharia de dados, entendendo de ponta a ponta o ciclo de vida dos dados para poder usar deles para a tomada das melhores decisões possíveis (:</p>
 
 <p align="center">Para me conhecer mais e para proposta de projetos, <a href="mailto:alexa.iung.dias@gmail.com">me contate!</a></p>
 
